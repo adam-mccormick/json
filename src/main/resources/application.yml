@@ -1,0 +1,7 @@
+micronaut:
+  application:
+    name: json
+netty:
+  default:
+    allocator:
+      max-order: 3
